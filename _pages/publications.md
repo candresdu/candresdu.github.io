@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: Here is a short list of publications to which I have contributed during Graduate school and internships!
 nav: true
 nav_order: 2
