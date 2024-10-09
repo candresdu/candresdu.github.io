@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Autonomy Research Engineer @ <a href='https://www.lockheedmartin.com/en-us/capabilities/autonomous-unmanned-systems.html'>Lockheed Martin Advanced Technology Center</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hi, I’m Camilo Duarte, but you can call me Cam. I am a Senior Autonomy Research Engineer at Lockheed Martin. Prior to my gig at Lockheed, I was a Master's Student in Aerospace Engineering at [Georgia Tech](https://www.gatech.edu/) and a Graduate Research Assistant at the Georgia Tech Research Institute [GTRI](https://www.gtri.gatech.edu/). I received both my Undergrad (2019) and Master's (2021) degrees in Aerospace Engineering from Georgia Tech where I engaged in various research activities in the field of stochastic optimal control, robotics and machine learning, under the guidance of prof. Evangelos Theodorou. My research interests are at the intersection of modern stochastic control theory, reinforcement/deep learning, and optimization, with a focus on robotics applications in particular in the area of sample efficient policy learning. While research is important to me, I also enjoy programming, working in teams and deploying algorithms into autonomous platforms. During my time at Georgia Tech, I participated in two major competitions aimed at demonstrating the capabilities of state-of-the-art autonomy algorithms in challenging environments, namely [AlphaPilot](https://www.herox.com/alphapilot/teams) (under Team Icarus) and [AlphaDogfight](https://www.youtube.com/watch?v=_dwbA7U-nnI) (under Team GTRI).
+  
+Currently, at Lockheed Martin, I apply Deep Learning methods to detect wildfires and model their behavior in order to aid the competent agencies in their efforts to combat wildfires under a large corporate effort under the name of [Fire Intelligence as a Service](https://www.lockheedmartin.com/en-us/products/firefighting-intelligence.html). I also conduct research, implementation, and deployment of algorithms in behavior and motion planning, computer vision, and scene grounding on a robotic workcell with the goal of optimizing ground manufacturing processes, and demonstrating technical capabilities for future autonomous manufacturing and assembly operations in space.
+  
+In my free time I enjoy reading non-fiction, exercising and, mostly, playing the guitar.
