@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Duarte_Resume_2024.pdf
+cv_pdf: Duarte_Resume.pdf
 description: Get a copy of my resume by clicking on the PDF icon --------->
 toc:
   sidebar: left
