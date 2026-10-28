@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Autonomy Research Engineer @ <a href='https://www.lockheedmartin.com/en-us/capabilities/autonomous-unmanned-systems.html'>Lockheed Martin Advanced Technology Center</a>.
+subtitle: Senior Robotics Software Engineer @ <a href='https://withcargo.com'>Cargo Robotics</a>
 
 profile:
   align: right
@@ -15,8 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I’m Camilo Duarte, but you can call me Cam. I am a Senior Autonomy Research Engineer at Lockheed Martin. Prior to my gig at Lockheed, I was a Master's Student in Aerospace Engineering at [Georgia Tech](https://www.gatech.edu/) and a Graduate Research Assistant at the Georgia Tech Research Institute [GTRI](https://www.gtri.gatech.edu/). I received both my Undergrad (2019) and Master's (2021) degrees in Aerospace Engineering from Georgia Tech where I engaged in various research activities in the field of stochastic optimal control, robotics and machine learning, under the guidance of prof. Evangelos Theodorou. My research interests are at the intersection of modern stochastic control theory, reinforcement/deep learning, and optimization, with a focus on robotics applications in particular in the area of sample efficient policy learning. While research is important to me, I also enjoy programming, working in teams and deploying algorithms into autonomous platforms. During my time at Georgia Tech, I participated in two major competitions aimed at demonstrating the capabilities of state-of-the-art autonomy algorithms in challenging environments, namely [AlphaPilot](https://www.herox.com/alphapilot/teams) (under Team Icarus) and [AlphaDogfight](https://www.youtube.com/watch?v=_dwbA7U-nnI) (under Team GTRI).
-  
-Currently, at Lockheed Martin, I apply Deep Learning methods to detect wildfires and model their behavior in order to aid the competent agencies in their efforts to combat wildfires under a large corporate effort under the name of [Fire Intelligence as a Service](https://www.lockheedmartin.com/en-us/products/firefighting-intelligence.html). I also conduct research, implementation, and deployment of algorithms in behavior and motion planning, computer vision, and scene grounding on a robotic workcell with the goal of optimizing ground manufacturing processes, and demonstrating technical capabilities for future autonomous manufacturing and assembly operations in space.
-  
+Hi, I’m Camilo Duarte, but you can call me Cam. I am a Senior Robotics Software Engineer specializing in autonomy, motion and grasp planning, controls, and perception for autonomous physical systems.
+
+Currently, I am at Cargo Robotics (founding team / Employee #2), where I co-own the full autonomy stack end-to-end for an autonomous truck-loading parcel handling robot across three hardware generations. My work spans 3D perception, multi-sensor fusion and scene understanding, motion planning, grasp planning, robot URDF generation, embedded sensor and actuator interfaces, CAN communication, and edge orchestration on NVIDIA devices. My work has been foundational to transition the robot from an initial prototype to commercial deployment and a signed paid pilot with a major parcel carrier.
+
+Prior to Cargo Robotics, I was an AI/Robotics Research Engineer at Lockheed Martin Advanced Technology Center, where I led the deployment of autonomy modules for robotic wire-harness assembly on UR10e arms (saving ~$0.4M annually) and developed neural network architectures for real-time wildfire behavior prediction under [Firefighting Intelligence as a Service](https://www.lockheedmartin.com/en-us/products/firefighting-intelligence.html).
+
+I earned both my M.S. (2021) and B.S. (2019) in Aerospace Engineering from [Georgia Tech](https://www.gatech.edu/), focusing on robotics, stochastic optimal control, and machine learning under Prof. Evangelos Theodorou. During my time at Georgia Tech and GTRI, I developed guidance and tracking controllers for high-speed UAVs, real-time guidance and navigation algorithms for competitive autonomous drone racing ([AlphaPilot](https://www.herox.com/alphapilot/teams)), and flight controllers for simulated aerial combat ([AlphaDogfight](https://www.youtube.com/watch?v=_dwbA7U-nnI)).
+
 In my free time I enjoy reading non-fiction, exercising and, mostly, playing the guitar.
