@@ -21,11 +21,11 @@
       location: Menlo Park, CA
       maindescription: Joined as one of two software engineers and co-architected the end-to-end autonomy and embedded stack across 3 hardware generations for a custom truck-loading parcel handling robot, securing the company's first signed paid pilot with a major global carrier.
       description:
-        - Co-designed planning and control frameworks for an in-house actuated end-effector (rotation and expansion), footprint-aware grasp planning, and MoveIt multi-stage trajectory collision checking.
-        - Overhauled near-field 3D perception with range-gated depth filtering and reprojection quality gating; engineered visual capture pipelines feeding downstream VLM decision interfaces for parcel re-identification.
-        - Architected a configuration-driven procedural robot-model generation pipeline (URDF/SRDF), establishing kinematic digital twins across hardware iterations.
-        - Architected distributed embedded firmware across multi-MCU boards over CAN for actuated end-effector control, closed-loop ODrive BLDC gantry motion with absolute encoders, and safe in-place e-stop/fault recovery without system reboots.
-        - Maintained containerized deployment and orchestration pipelines (Docker, ROS 2, Jetson Orin AGX) standardizing software across hardware revisions and reducing bare-metal bring-up to under 2 hours.
+        - Co-designed the firmware and sensor/actuator interfaces for a custom-designed end effector, coordinating end-effector kinematics for footprint-aware grasp planning, and built MoveIt multi-stage trajectory collision checking.
+        - Designed 3D perception algorithms for accurate package detection and characterization to drive grasp planning and parcel recovery, and led sensor selection, calibration, and specification of a wide-FOV near-field stereo camera; built capture pipelines feeding VLM decision interfaces for parcel re-identification.
+        - Architected a configuration-driven URDF/SRDF generation pipeline at the core of motion planning and collision checking, working closely with the hardware team to keep the digital twin in sync across hardware iterations.
+        - Architected distributed embedded firmware across the robot's subsystems over CAN, including closed-loop ODrive BLDC gantry control with absolute encoders and safe in-place e-stop/fault recovery without system reboots.
+        - Architected the containerized deployment and orchestration mechanisms for the robot platform (Docker, ROS 2, Jetson Orin AGX), standardizing software across hardware revisions and reducing bare-metal bring-up to under 2 hours.
 
     - title: AI/Robotics Research Engineer
       institution: Lockheed Martin Advanced Technology Center
