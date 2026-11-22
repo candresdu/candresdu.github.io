@@ -9,3 +9,6 @@ assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
+assets/js/slosh-sim.js
+_includes/slosh-sim.html
+_posts/2026-11-22-slosh-testbed.md
